@@ -1,9 +1,9 @@
 # 108trigo
 
-∼/B-MAT-200> ./108trigo -h
-USAGE
-	./108trigo fun a0 a1 a2....
+∼/B-MAT-200> ./108trigo -h<br>
+USAGE<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;./108trigo fun a0 a1 a2....<br>
 
-DESCRIPTION
-	fun	function to be applied, among at least "EXP", "COS", "SIN", "COSH" and "SINH"
-	ai	coeficients of the matrix
+DESCRIPTION<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fun	function to be applied, among at least "EXP", "COS", "SIN", "COSH" and "SINH"<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ai	coeficients of the matrix<br>
