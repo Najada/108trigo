@@ -1,6 +1,6 @@
 # 108trigo
 
-∼/> ./108trigo -h
+∼/B-MAT-200> ./108trigo -h
 USAGE
 	./108trigo fun a0 a1 a2....
 
